@@ -1,0 +1,24 @@
+.main-form{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 80%;
+    margin-left: 10%;
+    align-items: center;
+}
+
+form{
+    font-size: 30px;
+    margin-top: 5%;
+    height: 100%;
+    margin-bottom: 2%;
+}
+
+form > input{
+    height: 20px;
+}
+
+button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(0, 225, 255, 0.842);
+    border: none;
+}
